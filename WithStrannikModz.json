@@ -48,7 +48,13 @@
 		{
 			"title": "VIEWBOX",
 			"description": "Онлайн кинотеатр для тв боксов",
-			"url": "https://strannikmodz.me/index.php?do=download&id=4801",
+			"url": "https://strannikmodz.me/index.php?do=download&id=4996",
+			"category": "StrannikModz"
+		},
+		{
+			"title": "AirReceiver",
+			"description": "Реализация приёма трансляции посредством Google Cast, AirPlay, YouTube Dial и т.д. на TV",
+			"url": "https://strannikmodz.me/index.php?do=download&id=4971",
 			"category": "StrannikModz"
 		},
 		{
