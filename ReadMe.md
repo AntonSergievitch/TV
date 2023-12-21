@@ -6,3 +6,4 @@
 
 [Tinstaller@s-host](http://technozon.s-host.net/)
 
+[json4tinstaller](https://clck.ru/373X7S)
