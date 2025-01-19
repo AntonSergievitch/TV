@@ -33,22 +33,28 @@
 	],
 	"apps": [
 		{
-			"title": "LazyMedia Deluxe",
+			"title": "LazyMedia Deluxe 3.349",
 			"description": "Каталогизатор Фильмов. ЗАЖАТЬ ДЛЯ ОБЗОРА",
-			"url": "https://strannikmodz.me/index.php?do=download&id=6025",
+			"url": "https://strannikmodz.me/index.php?do=download&id=6108",
 			"app_review": "https://youtu.be/y9DDntxaUzo",
 			"category": "StrannikModz"
 		},
 		{
-			"title": "KINOHD",
+			"title": "KINOHD 3.4.7",
 			"description": "Фильмовый агрегатор",
 			"url": "https://strannikmodz.me/index.php?do=download&id=5490",
 			"category": "StrannikModz"
 		},
 		{
-			"title": "VIEWBOX",
+			"title": "VIEWBOX 1.8.13",
 			"description": "Онлайн кинотеатр для тв боксов",
 			"url": "https://strannikmodz.me/index.php?do=download&id=5917",
+			"category": "StrannikModz"
+		},
+		{
+			"title": "Lamp!she",
+			"description": " LAMP!SHE - Форк Lampa, кино и сериалы Google TV",
+			"url": "https://apk.lampishe.cc",
 			"category": "StrannikModz"
 		},
 		{
