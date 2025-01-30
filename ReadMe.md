@@ -6,4 +6,10 @@
 
 [Tinstaller@s-host](http://technozon.s-host.net/)
 
-[json4tinstaller](https://clck.ru/373X7S)
+[json_technozon_4tinstaller](https://clck.ru/373X7S)
+[link4json_DrAdler_4tinstaler](http://bit.ly/atvapps)
+[json_DrAdler_4tinstaler](https://dradler.pp.ru/111.json)
+[DrAdler telegram](https://t.me/DrAdler_ATV)
+[json_Auron_4tinstaller](https://pastebin.com/raw/U2hra3wp)
+[json_pan29_4tinstaller](https://pastebin.com/raw/FPjB3Npj)
+[json_tox3_4tinstaller](https://tox-3.ru/ti)
