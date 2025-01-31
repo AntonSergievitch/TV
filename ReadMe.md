@@ -13,3 +13,6 @@
 [json_Auron_4tinstaller](https://pastebin.com/raw/U2hra3wp)
 [json_pan29_4tinstaller](https://pastebin.com/raw/FPjB3Npj)
 [json_tox3_4tinstaller](https://tox-3.ru/ti)
+[EasyInstaller](https://raw.githubusercontent.com/AntonSergievitch/TV/main/EasyInstaller_1.11-release.apk)
+[TInstaller_Mod_v24Tox](https://raw.githubusercontent.com/AntonSergievitch/TV/main/TInstaller_Mod_v.2.apk)
+[TInstaller_1.11](https://raw.githubusercontent.com/AntonSergievitch/TV/main/TInstaller_1.11-release.apk)
