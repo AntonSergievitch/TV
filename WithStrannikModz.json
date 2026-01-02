@@ -1,19 +1,9 @@
 {
 	"links": [
 		{
-			"title": "Файл Сервера TORRSERV ARM ARM7",
-			"description": "Файл для ручной установки TORRSERVE 32 bit",
-			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm7.so",
-			"mirror": "https://technozon.s-host.net/TorrServer-android-arm7.so",
-			"app_review": "https://youtu.be/TTM1ekrQw8U",
-			"category": "Обход блокировок"
-		},
-		{
-			"title": "Файл Сервера TORRSERV ARM64 ",
-			"description": "Файл для ручной установки TORRSERVE 64 bit",
-			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm64.so",
-			"mirror": "https://technozon.s-host.net/TorrServer-android-arm64.so",
-			"app_review": "https://youtu.be/TTM1ekrQw8U",
+			"title": "ByeByeDPI",
+			"description": "Обход блокировок в России ByeBye DPI",
+			"url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.6.9/ByeByeDPI-v1.6.9-arm64-v8a-release.apk",
 			"category": "Обход блокировок"
 		},
 		{
@@ -33,8 +23,14 @@
 	],
 	"apps": [
 		{
-			"title": "TORRSERV MATRIX 129",
-			"description": "TORRSERVE MATRIX StrannikModz ",
+			"title": "Obtainium",
+			"description": "Alternative app installer",
+			"url": "https://github.com/ImranR98/Obtainium/releases/download/latest/app-arm64-v8a-fdroid-release.apk",
+			"category": "StrannikModz"
+		},
+		{
+			"title": "TORRSERVE MATRIX 129",
+			"description": "TORRSERVE MATRIX StrannikModz",
 			"url": "https://strannikmodz.me/index.php?do=download&id=5169",
 			"app_review": "https://youtu.be/TTM1ekrQw8U",
 			"category": "StrannikModz"
