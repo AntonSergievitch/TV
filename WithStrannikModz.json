@@ -244,8 +244,7 @@
 	{
 	    "title": "ZONA",
 	    "description": "Онлайн кинотеатр для тв боксов",
-	    "url": "https://tecnozon.h1n.ru/zona.apk",
-	    "mirror": "https://technozon.s-host.net/zona.apk",
+	    "url": "https://github.com/AntonSergievitch/TV/blob/main/zona.apk",
 	    "app_review": "https://youtu.be/SbovnCpBsOw",
 	    "category": "Кинозал"
 	},
